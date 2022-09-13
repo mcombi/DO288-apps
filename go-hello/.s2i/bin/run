@@ -8,5 +8,5 @@
 #
 
 # Run the app
-echo "Starting app with lang option 'es'"
-exec /opt/app-root/app --lang es
+echo "Starting app with lang option 'en'"
+exec /opt/app-root/app --lang en
